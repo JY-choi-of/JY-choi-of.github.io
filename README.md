@@ -13,9 +13,11 @@
 
 ## 사용된 기술
 
-- **startBootstrap 테마 사용**: html, css 파일을 수정하였다.
+- **startBootstrap 테마 사용**: startBootstrap 테마를 사용한다. html, css 파일을 수정하여 내용과 스타일을 변경하였다.
 - **HTML5 및 CSS3**: 웹페이지의 구조와 스타일을 정의하는 데 사용되었다.
 - **JavaScript**: 모달 창 기능과 같은 동적 요소를 구현하기 위해 사용되었다.
 
 ## github 주소
 https://github.com/JY-choi-of/JY-choi-of.github.io.git
+
+**홈페이지 바로가기** -> https://jy-choi-of.github.io/
