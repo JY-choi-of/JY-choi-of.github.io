@@ -1,27 +1,20 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# 개인 홈페이지 만들기
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+## 개요
 
-## Getting Started
+본 프로젝트는 개인 홈페이지를 만드는 것을 목표로 한다. 프로젝트, 희망 직무 등을 소개하는 웹페이지를 구성한다. 홈페이지는 Bootstrap 테마를 사용하여 구현하였으며, 사용자 친화적인 인터페이스를 제공한다.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+## 주요 기능
 
-## Bugs and Issues
+- **프로필 소개**: 사진과 학번, 이름, 기술스택을 소개한다.
+- **프로젝트 포트폴리오**: 다양한 프로젝트 사진을 소개하며, 클릭 시 상세 내용을 모달 창으로 표시한다.
+- **희망 직무**: 희망 직무와 관련된 설명을 제공한다.
+- **기타 정보**: 연락처 정보를 포함한 일부 정보를 제공한다.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+## 사용된 기술
 
-## Creator
+- **startBootstrap 테마 사용**: html, css 파일을 수정하였다.
+- **HTML5 및 CSS3**: 웹페이지의 구조와 스타일을 정의하는 데 사용되었다.
+- **JavaScript**: 모달 창 기능과 같은 동적 요소를 구현하기 위해 사용되었다.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+## github 주소
