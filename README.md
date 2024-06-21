@@ -18,3 +18,4 @@
 - **JavaScript**: 모달 창 기능과 같은 동적 요소를 구현하기 위해 사용되었다.
 
 ## github 주소
+https://github.com/JY-choi-of/JY-choi-of.github.io.git
